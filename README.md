@@ -1,4 +1,8 @@
-ChatBot para Telegram
+# Chatbot para Telegram
 
--Como criar-
+Ferramentas utilizadas
+  - Python
+    - Biblioteca Telegram do pacote 'python-telegram-bot': permitir interação com o Telegram
+    - Biblioteca Chatterbot do pacote 'chatterbot': montar a lógica do chatbot
+
 
